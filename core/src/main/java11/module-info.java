@@ -2,13 +2,13 @@ module io.cucumber.core {
     exports io.cucumber.core.api;
     exports io.cucumber.core.backend;
     exports io.cucumber.core.cli;
-    exports io.cucumber.core.logging;
     exports io.cucumber.core.event;
     exports io.cucumber.core.eventbus;
     exports io.cucumber.core.exception;
     exports io.cucumber.core.feature;
     exports io.cucumber.core.filter;
     exports io.cucumber.core.io;
+    exports io.cucumber.core.logging;
     exports io.cucumber.core.options;
     exports io.cucumber.core.plugin;
     exports io.cucumber.core.reflection;
